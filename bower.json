@@ -1,0 +1,8 @@
+{
+    "name": "jQuery",
+    "version": "2.2.3",
+    "description": "jQuery",
+    "main": [
+        "src/jquery.js"
+    ]
+}
